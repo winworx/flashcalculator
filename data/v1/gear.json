@@ -1,1 +1,8 @@
-Zomaar even wat text..
+{
+  make: "Canon"
+  type: "EOS-300"
+},
+{
+  make:: "Fuji"
+  type: "XE4"
+}

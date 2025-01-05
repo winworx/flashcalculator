@@ -1,8 +1,8 @@
 {
-  make: "Canon"
-  type: "EOS-300"
+  "make": "Canon",
+  "type": "EOS-300"
 },
 {
-  make:: "Fuji"
-  type: "XE4"
+  "make": "Fuji",
+  "type": "XE4"
 }

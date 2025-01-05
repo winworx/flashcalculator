@@ -1,1 +1,1 @@
-# flashcalculator
+# Flash Calculator

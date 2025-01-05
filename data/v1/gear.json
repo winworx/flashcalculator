@@ -13,5 +13,10 @@
         "category": "camera",
         "make": "Leica",
         "model": "Q3"
-    }
+    },
+    {
+        "category": "camera",
+        "make": "Ricoh",
+        "model": "GR3"
+    },
 ]

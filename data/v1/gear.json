@@ -1,10 +1,17 @@
 [
     {
+        "category": "camera"
         "make": "Canon",
-        "type": "EOS-300D"
+        "model": "EOS-300D"
     },
     {
+        "category": "camera"
         "make": "Fuji",
-        "type": "XE4"
+        "model": "XE4"
+    },
+    {
+        "category": "camera"
+        "make": "Leica",
+        "model": "Q3"
     }
 ]

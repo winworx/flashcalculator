@@ -1,22 +1,27 @@
-[
-    {
-        "category": "camera",
-        "make": "Canon",
-        "model": "EOS-300D"
-    },
-    {
-        "category": "camera",
-        "make": "Fuji",
-        "model": "XE4"
-    },
-    {
-        "category": "camera",
-        "make": "Leica",
-        "model": "Q3"
-    },
-    {
-        "category": "camera",
-        "make": "Ricoh",
-        "model": "GR3"
-    },
-]
+{
+    "title": "Flash Calculator Default Gear list information",
+    "version": "0.1",
+    "date": "January 4, 2025",
+    "gearItems": [
+        {
+            "category": "camera",
+            "make": "Canon",
+            "model": "EOS-300D"
+        },
+        {
+            "category": "camera",
+            "make": "Fuji",
+            "model": "XE4"
+        },
+        {
+            "category": "camera",
+            "make": "Leica",
+            "model": "Q3"
+        },
+        {
+            "category": "camera",
+            "make": "Ricoh",
+            "model": "GR3"
+        },
+    ]
+}

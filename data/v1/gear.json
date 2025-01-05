@@ -1,10 +1,10 @@
 [
-  {
-  "make": "Canon",
-  "type": "EOS-300"
-},
-{
-  "make": "Fuji",
-  "type": "XE4"
-}
+    {
+        "make": "Canon",
+        "type": "EOS-300D"
+    },
+    {
+        "make": "Fuji",
+        "type": "XE4"
+    }
 ]

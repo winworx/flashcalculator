@@ -5,8 +5,8 @@
     "gearItems": [
         {
             "category": "camera",
-            "make": "Canon",
-            "model": "EOS-300D"
+            "make": "Sony",
+            "model": "A7iii"
         },
         {
             "category": "camera",
@@ -16,7 +16,12 @@
         {
             "category": "camera",
             "make": "Leica",
-            "model": "Q3"
+            "model": "Q3",
+            "sensorWidth":36.0,
+            "sensorHight":24.0,
+            "coc":0.03,
+            "cropFactor":1.0,
+            "magaPixel":26.0
         },
         {
             "category": "camera",

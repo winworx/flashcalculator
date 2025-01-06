@@ -1,7 +1,7 @@
 {
     "title": "Flash Calculator Default Gear list information",
     "version": "0.1",
-    "date": "January 4, 2025",
+    "date": "January 6, 2025",
     "gearItems": [
         {
             "category": "camera",
@@ -22,6 +22,20 @@
             "category": "camera",
             "make": "Ricoh",
             "model": "GR3"
+        },
+        {
+            "category":"flash",
+            "make":"LightPix Labs",
+            "model":"FlashQ Q20ii",
+            "guideNumber": 20,
+            "baseIso":100
+        },
+        {
+            "category":"flash",
+            "make":"Godox",
+            "model":"V860iii",
+            "guideNumber": 60,
+            "baseIso":100
         },
     ]
 }

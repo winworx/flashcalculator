@@ -1,6 +1,7 @@
 {
+    "formatVersion": "0.1",
     "title": "Flash Calculator Default Gear list information",
-    "version": "0.1",
+    "version":"0.2",
     "date": "January 6, 2025",
     "gearItems": [
         {

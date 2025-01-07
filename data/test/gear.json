@@ -12,7 +12,7 @@
             "sensorHight":"23.8",
             "coc":"0.03",
             "cropFactor":"1.0",
-            "megaPixel":"24.0"
+            "megaPixel":24.0
         },
         {
             "category": "camera",
@@ -22,7 +22,7 @@
             "sensorHight":"15.6",
             "coc":"0.02",
             "cropFactor":"1.5",
-            "megaPixel":"26.0"
+            "megaPixel":26.0
         },
         {
             "category": "camera",
@@ -32,7 +32,7 @@
             "sensorHight":"24.0",
             "coc":"0.03",
             "cropFactor":"1.0",
-            "megaPixel":"60.0"
+            "megaPixel":60.0
         },
         {
             "category": "camera",
@@ -42,7 +42,7 @@
             "sensorHight":"15.6",
             "coc":"0.04",
             "cropFactor":"1.5",
-            "megaPixel":"24.2"
+            "megaPixel":24.2
         },
         {
             "category":"flash",

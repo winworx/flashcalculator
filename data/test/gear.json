@@ -40,7 +40,7 @@
             "model": "GR3",
             "sensorWidth":23.5,
             "sensorHight":15.6,
-            "coc":"0.04",
+            "coc":0.04,
             "cropFactor":1.5,
             "megaPixel":24.2
         },

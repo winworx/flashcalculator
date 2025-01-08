@@ -48,42 +48,42 @@
             "category":"flash",
             "make":"LightPix Labs",
             "model":"FlashQ Q20ii",
-            "guideNumber": "20",
-            "baseIso":"100"
+            "guideNumber":20,
+            "baseIso":100
         },
         {
             "category":"flash",
             "make":"Godox",
             "model":"V860iii",
-            "guideNumber": 60,
+            "guideNumber":60,
             "baseIso":100
         },
         {
             "category":"flash",
             "make":"Canon",
             "model":"Speedlite 580EX",
-            "guideNumber": 58,
+            "guideNumber":58,
             "baseIso":100
         },
         {
             "category":"flash",
             "make":"Nikon",
             "model":"SB-800 AF",
-            "guideNumber": 38,
+            "guideNumber":38,
             "baseIso":100
         },
         {
             "category":"flash",
             "make":"Canon",
             "model":"Speedlite 430EX",
-            "guideNumber": 43,
+            "guideNumber":43,
             "baseIso":100
         },
         {
             "category":"flash",
             "make":"Sony",
             "model":"HVL-F56AM",
-            "guideNumber": 58,
+            "guideNumber":58,
             "baseIso":100
         },
         {
@@ -96,7 +96,6 @@
             "make":"Sony",
             "model":"24-105mm"
         },
-
     ]
 }
 

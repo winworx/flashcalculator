@@ -124,6 +124,7 @@
             "category":"bag",
             "make":"Wotancraft",
             "model":"Pilot 7L",
+            "capacity":7.0,
             "width":35.0,
             "height":24.0,
             "depth":15.0

@@ -86,6 +86,17 @@
             "guideNumber": 58,
             "baseIso":100
         },
+        {
+            "category":"bag",
+            "make":"Peak Design",
+            "model":"Everyday Sling 6l"
+        },
+        {
+            "category":"lens",
+            "make":"Sony",
+            "model":"24-105mm"
+        },
+
     ]
 }
 

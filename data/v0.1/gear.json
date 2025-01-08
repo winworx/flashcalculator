@@ -1,47 +1,48 @@
 {
-    "title": "Flash Calculator Default Gear list information",
-    "version":"0.2",
-    "date": "January 6, 2025",
+    "formatVersion": "v0.1",
+    "title": "Flash Calculator Gear list information",
+    "version":"0.1",
+    "date": "January 8, 2025",
     "gearItems": [
         {
             "category": "camera",
             "make": "Sony",
             "model": "A7iii",
-            "sensorWidth":"35.8",
-            "sensorHight":"23.8",
-            "coc":"0.03",
-            "cropFactor":"1.0",
-            "megaPixel":"24.0"
+            "sensorWidth":35.8,
+            "sensorHight":23.8,
+            "coc":0.03,
+            "cropFactor":1.0,
+            "megaPixel":24.0
         },
         {
             "category": "camera",
             "make": "Fujifilm",
             "model": "XE4",
-            "sensorWidth":"23.5",
-            "sensorHight":"15.6",
-            "coc":"0.02",
-            "cropFactor":"1.5",
-            "megaPixel":"26.0"
+            "sensorWidth":23.5,
+            "sensorHight":15.6,
+            "coc":0.02,
+            "cropFactor":1.5,
+            "megaPixel":26.0
         },
         {
             "category": "camera",
             "make": "Leica",
             "model": "Q3",
-            "sensorWidth":"36.0",
-            "sensorHight":"24.0",
-            "coc":"0.03",
-            "cropFactor":"1.0",
-            "megaPixel":"60.0"
+            "sensorWidth":36.0,
+            "sensorHight":24.0,
+            "coc":0.03,
+            "cropFactor":1.0,
+            "megaPixel":60.0
         },
         {
             "category": "camera",
             "make": "Ricoh",
             "model": "GR3",
-            "sensorWidth":"23.5",
-            "sensorHight":"15.6",
-            "coc":"0.04",
-            "cropFactor":"1.5",
-            "megaPixel":"24.2"
+            "sensorWidth":23.5,
+            "sensorHight":15.6,
+            "coc":0.04,
+            "cropFactor":1.5,
+            "megaPixel":24.2
         },
         {
             "category":"flash",

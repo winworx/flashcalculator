@@ -89,11 +89,52 @@
         {
             "category":"bag",
             "make":"Peak Design",
-            "model":"Everyday Sling 6l",
+            "model":"Everyday Sling 6L V2",
             "capacity":6.0,
-            "width":25.0,
-            "height":23.0,
-            "depth":22.0
+            "width":34.0,
+            "height":24.0,
+            "depth":13.0
+        },
+        {
+            "category":"bag",
+            "make":"Peak Design",
+            "model":"Everyday Sling 3L V2",
+            "capacity":3.0,
+            "width":30.0,
+            "height":19.0,
+            "depth":12.0
+        },
+        {
+            "category":"bag",
+            "make":"ThinkTank",
+            "model":"Retrospective 5",
+            "width":25.5,
+            "height":21.5,
+            "depth":15.0
+        },
+        {
+            "category":"bag",
+            "make":"ThinkTank",
+            "model":"Retrospective EDC Backpack",
+            "width":29.0,
+            "height":46.0,
+            "depth":22.5
+        },
+        {
+            "category":"bag",
+            "make":"Wotancraft",
+            "model":"Pilot 7L",
+            "width":35.0,
+            "height":24.0,
+            "depth":15.0
+        },
+        {
+            "category":"bag",
+            "make":"Peak Design",
+            "model":"Travel Backpack 30L",
+            "width":53.0,
+            "height":34.0,
+            "depth":20.0
         },
         {
             "category":"lens",
@@ -105,6 +146,28 @@
             "maxAperture":22.0,
             "lensmount":"Sony FE",
             "lensDiameter":77.0
+        },
+        {
+            "category":"lens",
+            "make":"Sony",
+            "model":"FE 4/16-35 ZA OSS",
+            "minFocalLength":16.0,
+            "maxFocalLength":35.0,
+            "minAperture":4.0,
+            "maxAperture":22.0,
+            "lensmount":"Sony FE",
+            "lensDiameter":72.0
+        },
+        {
+            "category":"lens",
+            "make":"Leica",
+            "model":"Summilux 1:1.7/28 ASPH",
+            "minFocalLength":28.0,
+            "maxFocalLength":28.0,
+            "minAperture":1.7,
+            "maxAperture":16.0,
+            "lensmount":"Fixed on Leica-Q3",
+            "lensDiameter":49.0
         },
     ]
 }

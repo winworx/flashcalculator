@@ -98,7 +98,13 @@
         {
             "category":"lens",
             "make":"Sony",
-            "model":"24-105mm"
+            "model":"FE 24-105mm F/4.0G OSS",
+            "minFocalLenght":24.0,
+            "maxFocalLenght":104.0,
+            "minAperture":4.0,
+            "maxAperture":22.0,
+            "lensmount":"Sony FE",
+            "lensDiameter":77.0
         },
     ]
 }

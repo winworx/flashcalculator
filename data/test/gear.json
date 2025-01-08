@@ -1,8 +1,8 @@
 {
     "formatVersion": "test",
     "title": "Flash Calculator Test Gear list information",
-    "version":"0.2",
-    "date": "January 6, 2025",
+    "version":"0.3",
+    "date": "January 8, 2025",
     "gearItems": [
         {
             "category": "camera",

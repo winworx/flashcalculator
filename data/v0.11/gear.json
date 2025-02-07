@@ -1,8 +1,8 @@
 {
     "formatVersion": "v0.11",
     "title": "Flash Calculator Gear list information",
-    "version":"0.1",
-    "date": "January 10, 2025",
+    "version":"0.2",
+    "date": "February 7, 2025",
     "gearItems": [
         {
             "category": "camera",
@@ -36,6 +36,16 @@
         },
         {
             "category": "camera",
+            "make": "Fujifilm",
+            "model": "XT3",
+            "sensorWidth":23.5,
+            "sensorHight":15.6,
+            "coc":0.02,
+            "cropFactor":1.5,
+            "megaPixel":26.1
+        },
+        {
+            "category": "camera",
             "make": "Ricoh",
             "model": "GR3",
             "sensorWidth":23.5,
@@ -63,6 +73,13 @@
             "make":"Canon",
             "model":"Speedlite 580EX",
             "guideNumber":58,
+            "baseIso":100
+        },
+        {
+            "category":"flash",
+            "make":"Godox",
+            "model":"iM30",
+            "guideNumber":15,
             "baseIso":100
         },
         {

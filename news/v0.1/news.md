@@ -3,6 +3,9 @@
 **News**
 On this page information relevant news will be made available for the user, without having to deliver a new release. This feature is made available from v1.8 onwards.
 
+**March 18, 2025**
+* Added a new flash to the gear library: Godox TT560.
+
 **March 11, 2025**
 * Added a new flash to the gear library: Godox TT350.
 

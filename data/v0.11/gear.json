@@ -105,6 +105,13 @@
         },
         {
             "category":"flash",
+            "make":"Godox",
+            "model":"TT560II",
+            "guideNumber":38,
+            "baseIso":100
+        },
+        {
+            "category":"flash",
             "make":"Sony",
             "model":"HVL-F56AM",
             "guideNumber":58,

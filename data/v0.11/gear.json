@@ -84,6 +84,13 @@
         },
         {
             "category":"flash",
+            "make":"Godox",
+            "model":"iM20",
+            "guideNumber":8,
+            "baseIso":100
+        },
+        {
+            "category":"flash",
             "make":"Nikon",
             "model":"SB-800 AF",
             "guideNumber":38,

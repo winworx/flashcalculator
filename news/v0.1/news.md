@@ -1,10 +1,10 @@
-**Updated on:** March 23, 2025
+**Updated on:** March 24, 2025
 
 **News**
 On this page information relevant news will be made available for the user, without having to deliver a new release. This feature is made available from v1.8 onwards.
 
 **March 23, 2025**
-* Submittted v1.9.x for review. Should now be available anytime soon.
+* Released v1.9.3. With mostly some enhancments to the news functionality.
 * Added a new flash to the gear libary: Godox iM20
 
 **March 18, 2025**
